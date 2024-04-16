@@ -2,7 +2,7 @@
 Segurança Informática e Nas Organizações
 
 
-| Projetios     | Notas         |
+| Projeto       | Notas         |
 | ------------- | ------------- |
-| Projeto_1     | 13.5          |
-| Projeto_2     | 15.17         |
+| 1º Projeto    | 13.5          |
+| 2º Projeto    | 15.17         |
